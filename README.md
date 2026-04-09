@@ -24,4 +24,4 @@
 只需在终端中运行以下一键命令即可完成配置（需具有 sudo 权限）：
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/stmtc233/AutoZRAM-Swap/refs/heads/main/setup_swap_zram.sh](https://raw.githubusercontent.com/stmtc233/AutoZRAM-Swap/refs/heads/main/setup_swap_zram.sh) | sudo bash
+curl -sL https://raw.githubusercontent.com/stmtc233/AutoZRAM-Swap/refs/heads/main/setup_swap_zram.sh | sudo bash
